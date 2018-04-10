@@ -1,0 +1,21 @@
+a, img, #logo, #logo img, a.menulogo img {
+    border:none !important;
+    outline:none !important;
+}
+
+
+a.menulogo img {
+    height: 69px !important;
+    float: left;
+    display: block;
+    margin-bottom: 20px;
+width:100%;
+}
+.mainimage {
+    width: 65%;
+    position: fixed !important;
+    z-index: -9999;
+    top: 10% !important;
+    vertical-align: inherit !important;
+    display:block !important;
+}
